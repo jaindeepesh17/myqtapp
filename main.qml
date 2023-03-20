@@ -1,5 +1,5 @@
 import QtQuick 2.9
-import QtQuick.Window 2.15
+import QtQuick.Window 2.9
 Window{
 	title: qsTr("Admin Website")
 	id:root	
